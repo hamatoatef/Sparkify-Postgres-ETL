@@ -44,4 +44,4 @@ time - timestamps of records in songplays broken down into specific units
         (start_time, hour, day, week, month, year, weekday)
         
         
- https://drawsql.app/teams/ahmed-37/diagrams/sparkify
+![drawSQL-export-2022-10-12_03_32](https://user-images.githubusercontent.com/88297240/195228854-11273b41-d2b0-4e32-a6a8-bea3657cb7f2.png)
